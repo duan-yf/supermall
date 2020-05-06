@@ -18,4 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 运行效果
-![输入图片说明]()
+![images](https://github.com/duan-yf/supermall/images/1.path)
